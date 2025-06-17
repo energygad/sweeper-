@@ -1,0 +1,15 @@
+{
+  "name": "sweeper",
+  "version": "1.0.0",
+  "description": "Stellar Pi Sweeper Bot without Telegram",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "stellar-sdk": "^10.4.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
